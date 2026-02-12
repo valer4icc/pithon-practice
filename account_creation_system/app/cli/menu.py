@@ -1,0 +1,12 @@
+def show_menu():
+    print("\n=== MENU ===")
+    print("1. Register new user")
+    print("2. Show users table")
+    print("3. Search user by username")
+    print("4. Show statistics")
+    print("5. Show usernames")
+    print("6. Show email domain report")
+    print("7. Show adult users")
+    print("8. Show user emails")
+    print("9. Show users sorted by age")
+    print("10. Exit")
